@@ -21,6 +21,7 @@
 @v2rayng_config_amin
 @VPNCLOP
 @DarkTeam_VPN
+@V2FreeShare
 @ProxyForOpeta
 @Outlinev2rayNG
 @v2_team
